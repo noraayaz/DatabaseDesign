@@ -4,7 +4,7 @@ In this project, we have created a clear and concise Entity-Relationship (ER) di
 This design:
 *  Illustrates the relationships and entities involved in managing the Allsvenskan league data.
 *  Facilitates understanding of the data interactions and integrity constraints within the database.
-*  
+  
 The ER diagram serves as a foundational blueprint for database implementation.
 
 # Process Modeling - QualityFood (BPMN)
