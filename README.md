@@ -18,6 +18,7 @@ Key activities have been meticulously documented to capture the detailed workflo
 This BPMN diagram ensures a comprehensive and accurate modeling of the cooking process at QualityFood, enhancing both understanding and management of kitchen operations.
 
 # Snowflake Schema Data Model for Olympic History
+
 Project Description
 This project involves creating a snowflake schema data model to represent 120 years of Olympic history, using historical data from the modern Olympic Games (Athens 1896 to Rio 2016). The dataset, sourced from www.sports-reference.com in May 2018, comprises three key areas: Countries, Summer Games, and Winter Games, and was provided in three Excel files.
 
