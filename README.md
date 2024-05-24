@@ -24,21 +24,23 @@ Project Description
 This project involves creating a snowflake schema data model to represent 120 years of Olympic history, using historical data from the modern Olympic Games (Athens 1896 to Rio 2016). The dataset, sourced from www.sports-reference.com in May 2018, comprises three key areas: Countries, Summer Games, and Winter Games, and was provided in three Excel files.
 
 Key Features
+
 *  Snowflake Schema Design: Developed an efficient snowflake schema to organize and relate the historical Olympic data.
 *  Data Integration: Combined data from multiple sources (Countries, Summer Games, Winter Games) into a unified database schema.
 *  Visualization: Created diagrams to visually represent the data structure, enhancing the understanding and usability of the database.
   
 Tools and Technologies Used
+
 *  Excel: Initial data handling and preparation.
 *  ER/Studio: For designing and validating the snowflake schema.
 
 Final Product
-The final submission includes:
 
 *  An image of the snowflake schema.
 *  A PowerPoint presentation detailing the schema design and its components.
 
 Project Outcome
+
 This data model provides a structured and insightful view into the vast history of the Olympics, facilitating easier queries and improved data management for historical Olympic data analysis.
 
 Contribution
