@@ -1,5 +1,5 @@
 ﻿# Database Desing with ER diagram
-In this project, we have created a clear and concise Entity-Relationship (ER) diagram to represent the database structure for the Allsvenskan, which is the top professional league for men's association football clubs in Sweden. The ER diagram is crafted using both Chen notation and Crow's Foot Notation, providing a dual perspective on the database schema.
+In this project, I have created a clear and concise Entity-Relationship (ER) diagram to represent the database structure for the Allsvenskan, which is the top professional league for men's association football clubs in Sweden. The ER diagram is crafted using both Chen notation and Crow's Foot Notation, providing a dual perspective on the database schema.
 
 This design:
 *  Illustrates the relationships and entities involved in managing the Allsvenskan league data.
