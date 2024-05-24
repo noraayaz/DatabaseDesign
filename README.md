@@ -42,4 +42,5 @@ Project Outcome
 This data model provides a structured and insightful view into the vast history of the Olympics, facilitating easier queries and improved data management for historical Olympic data analysis.
 
 Contribution
+
 This project was completed as part of a group assignment for a course in data modeling. Each member contributed to the various stages of the project, from data preparation to final presentation.
